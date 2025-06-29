@@ -3,6 +3,7 @@
 Maquetar en HTML como un prototipo una pastelería del lado del pastelero
 
 __*Usuario*__: admin
+
 __*Contraseña*__: adminC&C
 
 ## Caso: Pastelería
